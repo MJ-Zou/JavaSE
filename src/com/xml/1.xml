@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <!--在这里写注释-->
+    <a id="a" class="com.xml">
+        id为a
+    </a>
+    <b>
+        没有任何属性的标签
+    </b>
+    <div>
+        我在html中学过<![CDATA[<img><table>]]>标签
+    </div>
+</main>
